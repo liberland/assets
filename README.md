@@ -1,5 +1,12 @@
 [![liberland](http://liberland.org/addons/image/Liberland_znak_small.png)](https://github.com/liberland/liberland)
 
+<p>
+<center>
+   <img src="https://lgl.liberland.org/uploads/-/system/appearance/header_logo/1/Liberland_vlajka.png" alt="Liberland Logo" style="height: 68px; width:100px;"/>
+
+</center>
+</p>
+
 # Liberland Assets
 
 Official symbols of Free Republic of Liberland:
